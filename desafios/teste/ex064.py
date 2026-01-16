@@ -1,6 +1,6 @@
 quantosn = 0
 soma = 0
-n = int(input('Digite um número:'))
+n = int(input('Digite um númerooo:'))
 while n != 999:
     quantosn += 1
     soma += n
